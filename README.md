@@ -1,2 +1,2 @@
 # flappybird
-Flappybird game made in Ruben's Workshop
+Flappybird game made for Ruben's Workshop
